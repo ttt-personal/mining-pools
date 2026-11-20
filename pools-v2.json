@@ -1849,5 +1849,12 @@
     "addresses": [],
     "tags": ["/trustpool/"],
     "link": "https://trustpool.cc"
+  },
+  {
+    "id": 173,
+    "name": "HashPoolPro",
+    "addresses": [],
+    "tags": ["/hashpoolpro/"],
+    "link": "https://hashpoolpro.com"
   }
 ]
